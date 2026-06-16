@@ -1,5 +1,13 @@
 # Changelog
 
+## 3.2.1 (2026-06-16)
+
+Full Changelog: [v3.2.0...v3.2.1](https://github.com/cartesia-ai/cartesia-js/compare/v3.2.0...v3.2.1)
+
+### Bug Fixes
+
+* **client:** send content-type header for requests with an omitted optional body ([164466b](https://github.com/cartesia-ai/cartesia-js/commit/164466b4142ebb251ad1ac4ff492576650727387))
+
 ## 3.2.0 (2026-05-28)
 
 Full Changelog: [v3.2.0-b2...v3.2.0](https://github.com/cartesia-ai/cartesia-js/compare/v3.2.0-b2...v3.2.0)
